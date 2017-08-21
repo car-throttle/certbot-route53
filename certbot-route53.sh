@@ -42,6 +42,6 @@ else
       }]
     }"
   )
-  
+
   echo 1
 fi
